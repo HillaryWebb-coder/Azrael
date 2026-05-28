@@ -1,0 +1,104 @@
+[
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -x assembler-with-cpp -g -o CMakeFiles/azrael_freeRTOS.dir/Startup/startup_stm32f103c8tx.s.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Startup/startup_stm32f103c8tx.s",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Startup/startup_stm32f103c8tx.s",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Startup/startup_stm32f103c8tx.s.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Sources/main.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Sources/main.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Sources/main.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Sources/main.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Sources/syscalls.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Sources/syscalls.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Sources/syscalls.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Sources/syscalls.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Sources/sysmem.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Sources/sysmem.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Sources/sysmem.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Sources/sysmem.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/tasks.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/tasks.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/tasks.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/tasks.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/queue.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/queue.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/queue.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/queue.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/list.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/list.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/list.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/list.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/event_groups.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/event_groups.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/event_groups.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/event_groups.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/stream_buffer.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/stream_buffer.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/stream_buffer.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/stream_buffer.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/timers.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/timers.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/timers.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/timers.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/portable/MemMang/heap_4.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/MemMang/heap_4.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/MemMang/heap_4.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/portable/MemMang/heap_4.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/portable/GCC/ARM_CM3/port.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3/port.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3/port.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Drivers/FreeRTOS/portable/GCC/ARM_CM3/port.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Drivers/ST7735/st7735/st7735.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735/st7735.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735/st7735.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Drivers/ST7735/st7735/st7735.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Drivers/ST7735/st7735/fonts.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735/fonts.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735/fonts.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Drivers/ST7735/st7735/fonts.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Sources/gpio.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Sources/gpio.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Sources/gpio.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Sources/gpio.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Sources/spi.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Sources/spi.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Sources/spi.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Sources/spi.c.obj"
+},
+{
+  "directory": "/home/hillary/Documents/embedded_projs/azrael_freertos/Debug",
+  "command": "/home/hillary/.local/share/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc -DSTM32F103xB -DWARNINGS_AS_ERRORS=OFF -I/home/hillary/Documents/embedded_projs/azrael_freertos/Inc -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735 -I/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3 -mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g -o CMakeFiles/azrael_freeRTOS.dir/Sources/display.c.obj -c /home/hillary/Documents/embedded_projs/azrael_freertos/Sources/display.c",
+  "file": "/home/hillary/Documents/embedded_projs/azrael_freertos/Sources/display.c",
+  "output": "CMakeFiles/azrael_freeRTOS.dir/Sources/display.c.obj"
+}
+]

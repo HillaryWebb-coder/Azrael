@@ -1,0 +1,327 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "azrael_freeRTOS.elf"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"add_compile_definitions",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 103,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 109,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 110,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -x assembler-with-cpp -g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "STM32F103xB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "WARNINGS_AS_ERRORS=OFF"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/hillary/Documents/embedded_projs/azrael_freertos/Inc"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3"
+				}
+			],
+			"language" : "ASM",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "STM32F103xB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "WARNINGS_AS_ERRORS=OFF"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/hillary/Documents/embedded_projs/azrael_freertos/Inc"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/ST7735/st7735"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hillary/Documents/embedded_projs/azrael_freertos/Drivers/FreeRTOS/portable/GCC/ARM_CM3"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		}
+	],
+	"id" : "azrael_freeRTOS::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-mcpu=Cortex-M3 -std=gnu11   --specs=nano.specs -mthumb -Wall  -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-T../STM32F103C8TX_FLASH.ld --specs=nosys.specs -Wl,-Map=azrael_freeRTOS.map -Wl,--gc-sections -static -Wl,--start-group -lc -lm -Wl,--end-group",
+				"role" : "flags"
+			}
+		],
+		"language" : "C"
+	},
+	"name" : "azrael_freeRTOS",
+	"nameOnDisk" : "azrael_freeRTOS.elf",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Startup/startup_stm32f103c8tx.s",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Sources/main.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Sources/syscalls.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Sources/sysmem.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Drivers/FreeRTOS/tasks.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Drivers/FreeRTOS/queue.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Drivers/FreeRTOS/list.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Drivers/FreeRTOS/event_groups.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Drivers/FreeRTOS/stream_buffer.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Drivers/FreeRTOS/timers.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Drivers/FreeRTOS/portable/MemMang/heap_4.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Drivers/FreeRTOS/portable/GCC/ARM_CM3/port.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Drivers/ST7735/st7735/st7735.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Drivers/ST7735/st7735/fonts.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Sources/gpio.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Sources/spi.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "Sources/display.c",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}
