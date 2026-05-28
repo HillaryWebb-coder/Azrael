@@ -1,0 +1,24 @@
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-F_Cu.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-B_Cu.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-F_Paste.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-B_Paste.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-F_Silkscreen.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-B_Silkscreen.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-F_Mask.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-B_Mask.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-Edge_Cuts.gbr'.
+Created Gerber job file '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-job.gbrjob'.
+Info: Done.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-F_Cu.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-B_Cu.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-F_Paste.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-B_Paste.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-F_Silkscreen.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-B_Silkscreen.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-F_Mask.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-B_Mask.gbr'.
+Plotted to '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-Edge_Cuts.gbr'.
+Created Gerber job file '/home/hillary/Documents/kicad_jobs/azrael/fab-outs/azrael-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.

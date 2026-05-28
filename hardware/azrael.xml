@@ -1,0 +1,2882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/hillary/Documents/kicad_jobs/azrael/azrael.kicad_sch</source>
+    <date>2026-02-24T14:42:00+0000</date>
+    <tool>Eeschema 9.0.7-9.0.7~ubuntu24.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>azrael.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707103462166528</datasheet>
+      <description>16V 4.7uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="MFR.Part #">CL10A475KO8NNNC</field>
+        <field name="JLCPCB Part #">C19666</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707103462166528</field>
+        <field name="Description">16V 4.7uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="MFR.Part #" value="CL10A475KO8NNNC"/>
+      <property name="JLCPCB Part #" value="C19666"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d563e95-0d24-4413-bc8f-24425cb3f0f7</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8568525238768373760</datasheet>
+      <description>10uF 25V X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Manufacturer Part Number">CL10A106MA8NRNC</field>
+        <field name="Jlcpcb part Number">C96446</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8568525238768373760</field>
+        <field name="Description">10uF 25V X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Manufacturer Part Number" value="CL10A106MA8NRNC"/>
+      <property name="Jlcpcb part Number" value="C96446"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5623d523-21f5-41b5-9e74-372feca0edef</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</datasheet>
+      <description>100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
+        <field name="Jlcpcb part Number">C14663</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</field>
+        <field name="Description">100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Jlcpcb part Number" value="C14663"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0edef9b8-3dab-4261-937e-148330bf306a</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</datasheet>
+      <description>100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
+        <field name="Jlcpcb part Number">C14663</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</field>
+        <field name="Description">100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Jlcpcb part Number" value="C14663"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd1fe47b-1cf6-4b08-b09a-aa8930497367</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707103462166528</datasheet>
+      <description>16V 4.7uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="MFR.Part #">CL10A475KO8NNNC</field>
+        <field name="JLCPCB Part #">C19666</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707103462166528</field>
+        <field name="Description">16V 4.7uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="MFR.Part #" value="CL10A475KO8NNNC"/>
+      <property name="JLCPCB Part #" value="C19666"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>215c1e5e-b634-42b1-9804-c2e3a84a7238</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707103462166528</datasheet>
+      <description>16V 4.7uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="MFR.Part #">CL10A475KO8NNNC</field>
+        <field name="JLCPCB Part #">C19666</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707103462166528</field>
+        <field name="Description">16V 4.7uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="MFR.Part #" value="CL10A475KO8NNNC"/>
+      <property name="JLCPCB Part #" value="C19666"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e2cc967-f217-4fb4-85f8-f139a6b9faed</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707103462166528</datasheet>
+      <description>16V 4.7uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="MFR.Part #">CL10A475KO8NNNC</field>
+        <field name="JLCPCB Part #">C19666</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707103462166528</field>
+        <field name="Description">16V 4.7uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="MFR.Part #" value="CL10A475KO8NNNC"/>
+      <property name="JLCPCB Part #" value="C19666"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c55eca8-b5dc-4240-96ba-131d89722963</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</datasheet>
+      <description>100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
+        <field name="Jlcpcb part Number">C14663</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</field>
+        <field name="Description">100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Jlcpcb part Number" value="C14663"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11111a94-7c7d-40d3-a8ae-7b9c8c2f9a25</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178554275246080</datasheet>
+      <description>22uF 25V X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="MFR.Part #">CL31A226KAHNNNE</field>
+        <field name="JLCPCB Part #">C12891</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178554275246080</field>
+        <field name="Description">22uF 25V X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="MFR.Part #" value="CL31A226KAHNNNE"/>
+      <property name="JLCPCB Part #" value="C12891"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4791427a-6ab0-41ab-aef7-672c32bff199</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>15p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707286171729920</datasheet>
+      <description>15pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">FH (Guangdong Fenghua Advanced Tech)</field>
+        <field name="MFR.Part #">0402CG150J500NT</field>
+        <field name="JLCPCB Part #">C1548</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707286171729920</field>
+        <field name="Description">15pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="FH (Guangdong Fenghua Advanced Tech)"/>
+      <property name="MFR.Part #" value="0402CG150J500NT"/>
+      <property name="JLCPCB Part #" value="C1548"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d58f2fad-518a-4c89-a8bc-51eb16c2aef6</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178554275246080</datasheet>
+      <description>22uF 25V X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="MFR.Part #">CL31A226KAHNNNE</field>
+        <field name="JLCPCB Part #">C12891</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178554275246080</field>
+        <field name="Description">22uF 25V X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="MFR.Part #" value="CL31A226KAHNNNE"/>
+      <property name="JLCPCB Part #" value="C12891"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2bec2431-ff68-4b47-8cd7-b8c72abe21e4</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707103462166528</datasheet>
+      <description>16V 4.7uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="MFR.Part #">CL10A475KO8NNNC</field>
+        <field name="JLCPCB Part #">C19666</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707103462166528</field>
+        <field name="Description">16V 4.7uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="MFR.Part #" value="CL10A475KO8NNNC"/>
+      <property name="JLCPCB Part #" value="C19666"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a480c730-e3ed-4af9-8950-84a8e8a8688e</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>15p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707286171729920</datasheet>
+      <description>15pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">FH (Guangdong Fenghua Advanced Tech)</field>
+        <field name="MFR.Part #">0402CG150J500NT</field>
+        <field name="JLCPCB Part #">C1548</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707286171729920</field>
+        <field name="Description">15pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="FH (Guangdong Fenghua Advanced Tech)"/>
+      <property name="MFR.Part #" value="0402CG150J500NT"/>
+      <property name="JLCPCB Part #" value="C1548"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22fdba25-c87d-4147-ae16-5f9ed0c95c28</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707322534723585</datasheet>
+      <description>10pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="MFR.Part #">CL05C100JB5NNNC</field>
+        <field name="JLCPCB Part #">C32949</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707322534723585</field>
+        <field name="Description">10pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="MFR.Part #" value="CL05C100JB5NNNC"/>
+      <property name="JLCPCB Part #" value="C32949"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cbe31ba-c5e2-4397-ad14-f1bb6504f707</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</datasheet>
+      <description>100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
+        <field name="Jlcpcb part Number">C14663</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</field>
+        <field name="Description">100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Jlcpcb part Number" value="C14663"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a03738e9-e272-42f6-9449-6d66059f34b9</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</datasheet>
+      <description>100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
+        <field name="Jlcpcb part Number">C14663</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</field>
+        <field name="Description">100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Jlcpcb part Number" value="C14663"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08566f84-a520-4cd5-9ce4-602d7b8356ce</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</datasheet>
+      <description>100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
+        <field name="Jlcpcb part Number">C14663</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</field>
+        <field name="Description">100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Jlcpcb part Number" value="C14663"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79791fef-42d3-402f-871d-07e34a46ed69</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</datasheet>
+      <description>100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
+        <field name="Jlcpcb part Number">C14663</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</field>
+        <field name="Description">100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Jlcpcb part Number" value="C14663"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3d79ffc-2f19-44b9-844b-b64ac056a7c5</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</datasheet>
+      <description>100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
+        <field name="Jlcpcb part Number">C14663</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</field>
+        <field name="Description">100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Jlcpcb part Number" value="C14663"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>996e569b-ee25-4b07-a904-1580502e6372</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707322534723585</datasheet>
+      <description>10pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="MFR.Part #">CL05C100JB5NNNC</field>
+        <field name="JLCPCB Part #">C32949</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707322534723585</field>
+        <field name="Description">10pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="MFR.Part #" value="CL05C100JB5NNNC"/>
+      <property name="JLCPCB Part #" value="C32949"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e756349-90d4-4e9f-860e-cc72b1fb8caa</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</datasheet>
+      <description>100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
+        <field name="Jlcpcb part Number">C14663</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</field>
+        <field name="Description">100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Jlcpcb part Number" value="C14663"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2575261d-6a59-4157-ac52-d847a4fb53fe</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</datasheet>
+      <description>100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
+        <field name="Jlcpcb part Number">C14663</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</field>
+        <field name="Description">100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Jlcpcb part Number" value="C14663"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f02a9191-3652-4497-94cd-e7afd02d5cc6</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</datasheet>
+      <description>100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
+        <field name="Jlcpcb part Number">C14663</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8667086713681608704</field>
+        <field name="Description">100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Jlcpcb part Number" value="C14663"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b8c783e-7e4a-4b05-81c8-1cd6418b419a</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707164920893440</datasheet>
+      <description>10nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">FH (Guangdong Fenghua Advanced Tech)</field>
+        <field name="MFR.Part #">0603B103K500NT</field>
+        <field name="JLCPCB Part #">C57112</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707164920893440</field>
+        <field name="Description">10nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="FH (Guangdong Fenghua Advanced Tech)"/>
+      <property name="MFR.Part #" value="0603B103K500NT"/>
+      <property name="JLCPCB Part #" value="C57112"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca64e79c-2513-4e24-8bea-18c63fafba6c</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8556213788459761664</datasheet>
+      <description>1uF 50V X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="MFR.Part #">CL10A105KB8NNNC</field>
+        <field name="JLCPCB Part #">C15849</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8556213788459761664</field>
+        <field name="Description">1uF 50V X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="MFR.Part #" value="CL10A105KB8NNNC"/>
+      <property name="JLCPCB Part #" value="C15849"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bde17beb-25a7-4e05-9306-45dd742c5b9a</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>TX_LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312</datasheet>
+      <description>-40℃~+85℃ 120° 2.4V 20mA 300mcd 40mW 615nm~630nm 645nm Discrete Diode Red Water Clear 0603 LED Indication - Discrete ROHS</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Manufacturer">Hubei KENTO Elec</field>
+        <field name="MFR.PART #">KT-0603R</field>
+        <field name="JLCPCB Part #">C2286</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">LED_SMD:LED_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312</field>
+        <field name="Description">-40℃~+85℃ 120° 2.4V 20mA 300mcd 40mW 615nm~630nm 645nm Discrete Diode Red Water Clear 0603 LED Indication - Discrete ROHS</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Manufacturer" value="Hubei KENTO Elec"/>
+      <property name="MFR.PART #" value="KT-0603R"/>
+      <property name="JLCPCB Part #" value="C2286"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>190f644d-75f6-49ca-9b49-4f591c14280f</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED_ARGB</value>
+      <footprint>LED_SMD:LED_RGB_1210</footprint>
+      <datasheet>https://www.everlight.com.cn/wp-content/plugins/ItemRelationship/product_files/pdf/DSE-0005368-15-13D-R6GHBHC-A01-2T-V6.pdf</datasheet>
+      <description>-40℃~+85℃ 120° Common Anode 1210 RGB LEDs ROHS</description>
+      <fields>
+        <field name="Manufacturer ">Everlight Elec</field>
+        <field name="MFR.Part #">15-13D/R6GHBHC-A01/2T</field>
+        <field name="JLCPCB Part #">C2890623</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">LED_SMD:LED_RGB_1210</field>
+        <field name="Datasheet">https://www.everlight.com.cn/wp-content/plugins/ItemRelationship/product_files/pdf/DSE-0005368-15-13D-R6GHBHC-A01-2T-V6.pdf</field>
+        <field name="Description">-40℃~+85℃ 120° Common Anode 1210 RGB LEDs ROHS</field>
+      </fields>
+      <libsource lib="Device" part="LED_ARGB" description="RGB LED, anode/red/green/blue"/>
+      <property name="Manufacturer " value="Everlight Elec"/>
+      <property name="MFR.Part #" value="15-13D/R6GHBHC-A01/2T"/>
+      <property name="JLCPCB Part #" value="C2890623"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="LED RGB diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b65ac81-90eb-46c4-a465-e18d56d1324f</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>RX_LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312</datasheet>
+      <description>-40℃~+85℃ 120° 2.4V 20mA 300mcd 40mW 615nm~630nm 645nm Discrete Diode Red Water Clear 0603 LED Indication - Discrete ROHS</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Manufacturer">Hubei KENTO Elec</field>
+        <field name="MFR.PART #">KT-0603R</field>
+        <field name="JLCPCB Part #">C2286</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">LED_SMD:LED_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312</field>
+        <field name="Description">-40℃~+85℃ 120° 2.4V 20mA 300mcd 40mW 615nm~630nm 645nm Discrete Diode Red Water Clear 0603 LED Indication - Discrete ROHS</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Manufacturer" value="Hubei KENTO Elec"/>
+      <property name="MFR.PART #" value="KT-0603R"/>
+      <property name="JLCPCB Part #" value="C2286"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fda373c1-bcf0-4755-9483-f1b2c17fbc9b</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED_1</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312</datasheet>
+      <description>-40℃~+85℃ 120° 2.4V 20mA 300mcd 40mW 615nm~630nm 645nm Discrete Diode Red Water Clear 0603 LED Indication - Discrete ROHS</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Manufacturer">Hubei KENTO Elec</field>
+        <field name="MFR.PART #">KT-0603R</field>
+        <field name="JLCPCB Part #">C2286</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">LED_SMD:LED_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312</field>
+        <field name="Description">-40℃~+85℃ 120° 2.4V 20mA 300mcd 40mW 615nm~630nm 645nm Discrete Diode Red Water Clear 0603 LED Indication - Discrete ROHS</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Manufacturer" value="Hubei KENTO Elec"/>
+      <property name="MFR.PART #" value="KT-0603R"/>
+      <property name="JLCPCB Part #" value="C2286"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62cf0fe2-bd7e-461e-a30b-efd4c8d53e46</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED_2</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312</datasheet>
+      <description>-40℃~+85℃ 120° 2.4V 20mA 300mcd 40mW 615nm~630nm 645nm Discrete Diode Red Water Clear 0603 LED Indication - Discrete ROHS</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Manufacturer">Hubei KENTO Elec</field>
+        <field name="MFR.PART #">KT-0603R</field>
+        <field name="JLCPCB Part #">C2286</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">LED_SMD:LED_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312</field>
+        <field name="Description">-40℃~+85℃ 120° 2.4V 20mA 300mcd 40mW 615nm~630nm 645nm Discrete Diode Red Water Clear 0603 LED Indication - Discrete ROHS</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Manufacturer" value="Hubei KENTO Elec"/>
+      <property name="MFR.PART #" value="KT-0603R"/>
+      <property name="JLCPCB Part #" value="C2286"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d35678d-4ff1-4d5c-bad1-80072e81d64f</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED_3</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312</datasheet>
+      <description>-40℃~+85℃ 120° 2.4V 20mA 300mcd 40mW 615nm~630nm 645nm Discrete Diode Red Water Clear 0603 LED Indication - Discrete ROHS</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Manufacturer">Hubei KENTO Elec</field>
+        <field name="MFR.PART #">KT-0603R</field>
+        <field name="JLCPCB Part #">C2286</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">LED_SMD:LED_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312</field>
+        <field name="Description">-40℃~+85℃ 120° 2.4V 20mA 300mcd 40mW 615nm~630nm 645nm Discrete Diode Red Water Clear 0603 LED Indication - Discrete ROHS</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Manufacturer" value="Hubei KENTO Elec"/>
+      <property name="MFR.PART #" value="KT-0603R"/>
+      <property name="JLCPCB Part #" value="C2286"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60de2515-ae51-4819-90c5-e7ada93b8f2c</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <description>75V 0.15A Fast Switching Diode, SOD-123</description>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet">https://www.vishay.com/docs/85748/1n4148w.pdf</field>
+        <field name="Description">75V 0.15A Fast Switching Diode, SOD-123</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="D*SOD?123*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>706e69a4-a5b1-4be4-829e-66cab53b8f78</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle_USB2.0_16P</value>
+      <footprint>Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <description>-25℃~+85℃ 1 16P 3A 5,000 times 5V Black Female Surface Mount, Right Angle Type-C SMD USB Connectors ROHS</description>
+      <fields>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Manufacturer">SHOU HAN</field>
+        <field name="MFR.Part #">TYPE-C 16PIN 2MD(073)</field>
+        <field name="JLCPCB Part #">C2765186</field>
+        <field name="Footprint">Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+        <field name="Description">-25℃~+85℃ 1 16P 3A 5,000 times 5V Black Female Surface Mount, Right Angle Type-C SMD USB Connectors ROHS</field>
+      </fields>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0_16P" description="USB 2.0-only 16P Type-C Receptacle connector"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Manufacturer" value="SHOU HAN"/>
+      <property name="MFR.Part #" value="TYPE-C 16PIN 2MD(073)"/>
+      <property name="JLCPCB Part #" value="C2765186"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
+      <property name="ki_fp_filters" value="USB*C*Receptacle*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3654bd63-aec3-4266-9fd9-c0a9a757d49a</tstamps>
+    </comp>
+    <comp ref="LS1">
+      <value>BUZZER</value>
+      <footprint>CBT-09427-SMT:CUI_CBT-09427-SMT</footprint>
+      <fields>
+        <field name="MF">Same Sky</field>
+        <field name="DESCRIPTION">9 mm, 3.6 V, 87 dB, Surface Mount _SMT_, Magnetic Audio Transducer Buzzer</field>
+        <field name="PACKAGE">None</field>
+        <field name="PRICE">None</field>
+        <field name="Package">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/CBT-09427-SMT-TR/Same+Sky/view-part/?ref=eda</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/CBT-09427-SMT-TR/Same+Sky/view-part/?ref=snap</field>
+        <field name="MP">CBT-09427-SMT-TR</field>
+        <field name="Availability">In Stock</field>
+        <field name="AVAILABILITY">Unavailable</field>
+        <field name="Description_1">9 mm, 3.6 V, 87 dB, Surface Mount (SMT), Magnetic Audio Transducer Buzzer</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">CBT-09427-SMT:CUI_CBT-09427-SMT</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="CBT-09427-SMT" part="CBT-09427-SMT" description=""/>
+      <property name="MF" value="Same Sky"/>
+      <property name="DESCRIPTION" value="9 mm, 3.6 V, 87 dB, Surface Mount _SMT_, Magnetic Audio Transducer Buzzer"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="PRICE" value="None"/>
+      <property name="Package" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/CBT-09427-SMT-TR/Same+Sky/view-part/?ref=eda"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/CBT-09427-SMT-TR/Same+Sky/view-part/?ref=snap"/>
+      <property name="MP" value="CBT-09427-SMT-TR"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="AVAILABILITY" value="Unavailable"/>
+      <property name="Description_1" value="9 mm, 3.6 V, 87 dB, Surface Mount (SMT), Magnetic Audio Transducer Buzzer"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c722191-9ef1-41dd-9103-9fb5819a8c04</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>SS8050</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.secosgmbh.com/datasheet/products/SSMPTransistor/SOT-23/SS8050.pdf</datasheet>
+      <description>-55℃~+150℃ 1 NPN 100nA 150MHz 200 25V 300mW 500mA 5V 600mV NPN SOT-23 Bipolar (BJT) ROHS</description>
+      <fields>
+        <field name="Sim.Device">NPN</field>
+        <field name="Sim.Pins">1=B 2=E 3=C</field>
+        <field name="Manufacturer">Jiangsu Changjing Electronics Technology Co., Ltd.</field>
+        <field name="MFR.Part #">S8050 J3Y(RANGE:200-350)</field>
+        <field name="JLCPCB Part #">C2146</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.secosgmbh.com/datasheet/products/SSMPTransistor/SOT-23/SS8050.pdf</field>
+        <field name="Description">-55℃~+150℃ 1 NPN 100nA 150MHz 200 25V 300mW 500mA 5V 600mV NPN SOT-23 Bipolar (BJT) ROHS</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="SS8050" description="General Purpose NPN Transistor, 1.5A Ic, 25V Vce, SOT-23"/>
+      <property name="Sim.Device" value="NPN"/>
+      <property name="Sim.Pins" value="1=B 2=E 3=C"/>
+      <property name="Manufacturer" value="Jiangsu Changjing Electronics Technology Co., Ltd."/>
+      <property name="MFR.Part #" value="S8050 J3Y(RANGE:200-350)"/>
+      <property name="JLCPCB Part #" value="C2146"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="SS8050 NPN Transistor"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f237550-d031-4f4b-9bd3-638d7737b745</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>2K2</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705935700279296</datasheet>
+      <description>-55℃~+155℃ 2.2kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0402WGF2201TCE</field>
+        <field name="JLCPCB Part #">C25879</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705935700279296</field>
+        <field name="Description">-55℃~+155℃ 2.2kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0402WGF2201TCE"/>
+      <property name="JLCPCB Part #" value="C25879"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e773555-3cbb-4e2e-9252-ffc56ba8cc05</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>2K2</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705935700279296</datasheet>
+      <description>-55℃~+155℃ 2.2kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0402WGF2201TCE</field>
+        <field name="JLCPCB Part #">C25879</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705935700279296</field>
+        <field name="Description">-55℃~+155℃ 2.2kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0402WGF2201TCE"/>
+      <property name="JLCPCB Part #" value="C25879"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70257eef-8772-4d30-8fc4-0677d78428d2</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705919464263680</datasheet>
+      <description>-55℃~+155℃ 100kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0402WGF1003TCE</field>
+        <field name="JLCPCB Part #">C25741</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705919464263680</field>
+        <field name="Description">-55℃~+155℃ 100kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0402WGF1003TCE"/>
+      <property name="JLCPCB Part #" value="C25741"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>503eae3e-082e-45e8-994e-d8d92f9a5707</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>5.1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706277024620544</datasheet>
+      <description>-55℃~+155℃ 100mW 5.1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF5101T5E</field>
+        <field name="JLCPCB Part #">C23186</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706277024620544</field>
+        <field name="Description">-55℃~+155℃ 100mW 5.1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF5101T5E"/>
+      <property name="JLCPCB Part #" value="C23186"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>560b9f9e-a241-4266-8bd5-12ff80899a12</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>5.1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706277024620544</datasheet>
+      <description>-55℃~+155℃ 100mW 5.1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF5101T5E</field>
+        <field name="JLCPCB Part #">C23186</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706277024620544</field>
+        <field name="Description">-55℃~+155℃ 100mW 5.1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF5101T5E"/>
+      <property name="JLCPCB Part #" value="C23186"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a96a973-fa10-47b2-9149-99bb48cb05d0</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706277024620544</datasheet>
+      <description>-55℃~+155℃ 100mW 5.1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF5101T5E</field>
+        <field name="JLCPCB Part #">C23186</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706277024620544</field>
+        <field name="Description">-55℃~+155℃ 100mW 5.1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF5101T5E"/>
+      <property name="JLCPCB Part #" value="C23186"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>847aec17-44b9-47f6-9227-bf0a09f8d751</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706277024620544</datasheet>
+      <description>-55℃~+155℃ 100mW 5.1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF5101T5E</field>
+        <field name="JLCPCB Part #">C23186</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706277024620544</field>
+        <field name="Description">-55℃~+155℃ 100mW 5.1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF5101T5E"/>
+      <property name="JLCPCB Part #" value="C23186"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f56b315a-0c84-45d1-81cb-3f2f35568b0c</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705924167974912</datasheet>
+      <description>-55℃~+155℃ 1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0402WGF1001TCE</field>
+        <field name="JLCPCB Part #">C11702</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705924167974912</field>
+        <field name="Description">-55℃~+155℃ 1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0402WGF1001TCE"/>
+      <property name="JLCPCB Part #" value="C11702"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37403601-4369-485e-bbbd-d6989bc146b5</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</datasheet>
+      <description>-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF3300T5E</field>
+        <field name="JLCPCB Part #">C23138</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</field>
+        <field name="Description">-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF3300T5E"/>
+      <property name="JLCPCB Part #" value="C23138"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67373132-3ecb-4bb7-957b-de0a19f415b8</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</datasheet>
+      <description>-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF3300T5E</field>
+        <field name="JLCPCB Part #">C23138</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</field>
+        <field name="Description">-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF3300T5E"/>
+      <property name="JLCPCB Part #" value="C23138"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64ac9462-9790-4b3e-a249-2431860394d4</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</datasheet>
+      <description>-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF3300T5E</field>
+        <field name="JLCPCB Part #">C23138</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</field>
+        <field name="Description">-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF3300T5E"/>
+      <property name="JLCPCB Part #" value="C23138"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0456fc6-70d3-416d-bc02-69955fd249fe</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</datasheet>
+      <description>-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF3300T5E</field>
+        <field name="JLCPCB Part #">C23138</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</field>
+        <field name="Description">-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF3300T5E"/>
+      <property name="JLCPCB Part #" value="C23138"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58b0095a-6593-4491-b041-818eed5cf930</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</datasheet>
+      <description>-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF3300T5E</field>
+        <field name="JLCPCB Part #">C23138</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</field>
+        <field name="Description">-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF3300T5E"/>
+      <property name="JLCPCB Part #" value="C23138"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>920e15b4-81c2-4040-8882-c81f0f2c637a</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</datasheet>
+      <description>-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF3300T5E</field>
+        <field name="JLCPCB Part #">C23138</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</field>
+        <field name="Description">-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF3300T5E"/>
+      <property name="JLCPCB Part #" value="C23138"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11bb1db6-e0e3-44b2-bf45-aca5938c9137</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>5.1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706277024620544</datasheet>
+      <description>-55℃~+155℃ 100mW 5.1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF5101T5E</field>
+        <field name="JLCPCB Part #">C23186</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706277024620544</field>
+        <field name="Description">-55℃~+155℃ 100mW 5.1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF5101T5E"/>
+      <property name="JLCPCB Part #" value="C23186"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fac15327-4eeb-4816-a609-2e9531f692b0</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</datasheet>
+      <description>-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF3300T5E</field>
+        <field name="JLCPCB Part #">C23138</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</field>
+        <field name="Description">-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF3300T5E"/>
+      <property name="JLCPCB Part #" value="C23138"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4823940-ef49-41cd-9d4d-d4bbca91a76b</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>5.1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706277024620544</datasheet>
+      <description>-55℃~+155℃ 100mW 5.1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF5101T5E</field>
+        <field name="JLCPCB Part #">C23186</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706277024620544</field>
+        <field name="Description">-55℃~+155℃ 100mW 5.1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF5101T5E"/>
+      <property name="JLCPCB Part #" value="C23186"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>558e72fa-68dc-4581-b684-4f9a23e55149</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</datasheet>
+      <description>-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF3300T5E</field>
+        <field name="JLCPCB Part #">C23138</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504</field>
+        <field name="Description">-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF3300T5E"/>
+      <property name="JLCPCB Part #" value="C23138"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9792ac1-7fa8-4501-997a-7673abf5f90b</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>150R</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706128193802240</datasheet>
+      <description>-55℃~+155℃ 100mW 150Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</description>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="MFR.Part #">0603WAF1500T5E</field>
+        <field name="JLCPCB Part #">C22808</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Resistor_SMD:R_0201_0603Metric</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706128193802240</field>
+        <field name="Description">-55℃~+155℃ 100mW 150Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="MFR.Part #" value="0603WAF1500T5E"/>
+      <property name="JLCPCB Part #" value="C22808"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f365e0d-f56a-4d26-b991-652ce56e9c0a</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>EXIT_BTN</value>
+      <footprint>Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550724022091735041</datasheet>
+      <description>-30℃~+80℃ 1.6N 100,000 Cycles 12V 2mm 3mm 4mm 50mA Black Round Button SMD(SMT) Tab SPST Surface Mount,Vertical Without Bracket SMD,4x3mm Tactile Switches ROHS</description>
+      <fields>
+        <field name="Manufacturer">XUNPU</field>
+        <field name="MFR.Part #">TS-1088-AR02016</field>
+        <field name="JLCPCB Part #">C720477</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550724022091735041</field>
+        <field name="Description">-30℃~+80℃ 1.6N 100,000 Cycles 12V 2mm 3mm 4mm 50mA Black Round Button SMD(SMT) Tab SPST Surface Mount,Vertical Without Bracket SMD,4x3mm Tactile Switches ROHS</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Manufacturer" value="XUNPU"/>
+      <property name="MFR.Part #" value="TS-1088-AR02016"/>
+      <property name="JLCPCB Part #" value="C720477"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c41f5aa9-0396-4919-9c60-105d2a141b0f</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>OK_BTN</value>
+      <footprint>Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550724022091735041</datasheet>
+      <description>-30℃~+80℃ 1.6N 100,000 Cycles 12V 2mm 3mm 4mm 50mA Black Round Button SMD(SMT) Tab SPST Surface Mount,Vertical Without Bracket SMD,4x3mm Tactile Switches ROHS</description>
+      <fields>
+        <field name="Manufacturer">XUNPU</field>
+        <field name="MFR.Part #">TS-1088-AR02016</field>
+        <field name="JLCPCB Part #">C720477</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550724022091735041</field>
+        <field name="Description">-30℃~+80℃ 1.6N 100,000 Cycles 12V 2mm 3mm 4mm 50mA Black Round Button SMD(SMT) Tab SPST Surface Mount,Vertical Without Bracket SMD,4x3mm Tactile Switches ROHS</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Manufacturer" value="XUNPU"/>
+      <property name="MFR.Part #" value="TS-1088-AR02016"/>
+      <property name="JLCPCB Part #" value="C720477"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff05d990-6e86-4ac9-a598-aa23c9c75a07</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>NRST_BTN</value>
+      <footprint>Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550724022091735041</datasheet>
+      <description>-30℃~+80℃ 1.6N 100,000 Cycles 12V 2mm 3mm 4mm 50mA Black Round Button SMD(SMT) Tab SPST Surface Mount,Vertical Without Bracket SMD,4x3mm Tactile Switches ROHS</description>
+      <fields>
+        <field name="Manufacturer">XUNPU</field>
+        <field name="MFR.Part #">TS-1088-AR02016</field>
+        <field name="JLCPCB Part #">C720477</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550724022091735041</field>
+        <field name="Description">-30℃~+80℃ 1.6N 100,000 Cycles 12V 2mm 3mm 4mm 50mA Black Round Button SMD(SMT) Tab SPST Surface Mount,Vertical Without Bracket SMD,4x3mm Tactile Switches ROHS</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Manufacturer" value="XUNPU"/>
+      <property name="MFR.Part #" value="TS-1088-AR02016"/>
+      <property name="JLCPCB Part #" value="C720477"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ad7082f-db22-4c75-a719-2ba5de4607e6</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>USBLC6-2SC6</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
+      <description>Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</description>
+      <fields>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+        <field name="Description">Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</field>
+      </fields>
+      <libsource lib="Power_Protection" part="USBLC6-2SC6" description="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="usb ethernet video"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0df12b3-a3ef-4475-89a9-f1f8ecbf007a</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MCP73871-2CA</value>
+      <footprint>Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm</footprint>
+      <datasheet>http://www.mouser.com/ds/2/268/22090a-52174.pdf</datasheet>
+      <description>Single cell, Li-Ion/Li-Po charge management controller, 4.20V, 6h safety timer</description>
+      <fields>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm</field>
+        <field name="Datasheet">http://www.mouser.com/ds/2/268/22090a-52174.pdf</field>
+        <field name="Description">Single cell, Li-Ion/Li-Po charge management controller, 4.20V, 6h safety timer</field>
+      </fields>
+      <libsource lib="Battery_Management" part="MCP73871-2CA" description="Single cell, Li-Ion/Li-Po charge management controller, 4.20V, 6h safety timer"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="battery charger lithium"/>
+      <property name="ki_fp_filters" value="QFN*4x4mm*P0.5mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c179499-1991-47e4-8b92-6276772e6d2a</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>CP2102N-Axx-xQFN28</value>
+      <footprint>Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm</footprint>
+      <datasheet>https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf</datasheet>
+      <description>-40℃~+85℃@(Ta) 1.3uA 3V~3.6V 9.5mA USB 2.0 USB to UART QFN-28-EP(5x5) USB Converters ROHS</description>
+      <fields>
+        <field name="Manufacturer">SKYWORKS/SILICON LABS</field>
+        <field name="MFR.Part #">CP2102N-A02-GQFN28R</field>
+        <field name="JLCPCB Part #">C964632</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm</field>
+        <field name="Datasheet">https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf</field>
+        <field name="Description">-40℃~+85℃@(Ta) 1.3uA 3V~3.6V 9.5mA USB 2.0 USB to UART QFN-28-EP(5x5) USB Converters ROHS</field>
+      </fields>
+      <libsource lib="Interface_USB" part="CP2102N-Axx-xQFN28" description="USB to UART master bridge, QFN-28"/>
+      <property name="Manufacturer" value="SKYWORKS/SILICON LABS"/>
+      <property name="MFR.Part #" value="CP2102N-A02-GQFN28R"/>
+      <property name="JLCPCB Part #" value="C964632"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="USB UART bridge"/>
+      <property name="ki_fp_filters" value="QFN*1EP*5x5mm*P0.5mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4cf0ea9-69a3-4f6d-95b4-5c80b9f16e26</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>AMS1117-3.3</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <description>-40℃~+125℃ 0.003%Vout 1 1.1V@(800mA) 16V 1A 3.3V 5mA 72dB@(120Hz) Fixed Over Current Protection、Over Temperature Protection Positive SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS</description>
+      <fields>
+        <field name="Manufacturer">Advanced Monolithic Systems</field>
+        <field name="MFR.Part #">AMS1117-3.3</field>
+        <field name="JLCPCB Part #">C6186</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+        <field name="Description">-40℃~+125℃ 0.003%Vout 1 1.1V@(800mA) 16V 1A 3.3V 5mA 72dB@(120Hz) Fixed Over Current Protection、Over Temperature Protection Positive SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="AMS1117-3.3" description="1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"/>
+      <property name="Manufacturer" value="Advanced Monolithic Systems"/>
+      <property name="MFR.Part #" value="AMS1117-3.3"/>
+      <property name="JLCPCB Part #" value="C6186"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="linear regulator ldo fixed positive"/>
+      <property name="ki_fp_filters" value="SOT?223*TabPin2*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d58ae564-6b21-4326-8adc-6b41f15e0887</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>SHT4x</value>
+      <footprint>Sensor_Humidity:Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588907595537399808</datasheet>
+      <description>-40℃~+125℃ 0%RH~100%RH 1.08V~3.6V 16bit 400nA I2C ±0.2℃ ±1.8%RH DFN-4-EP(1.5x1.5) Temperature and Humidity Sensor ROHS</description>
+      <fields>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Manufacturer">Sensirion</field>
+        <field name="MFR.Part #">SHT40-AD1B-R3</field>
+        <field name="JLCPCB Part #">C2848306</field>
+        <field name="Footprint">Sensor_Humidity:Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588907595537399808</field>
+        <field name="Description">-40℃~+125℃ 0%RH~100%RH 1.08V~3.6V 16bit 400nA I2C ±0.2℃ ±1.8%RH DFN-4-EP(1.5x1.5) Temperature and Humidity Sensor ROHS</field>
+      </fields>
+      <libsource lib="Sensor_Humidity" part="SHT4x" description="Digital Humidity and Temperature Sensor, ±1%RH, ±0.1°C, I2C, 1.08-3.6V, 16bit, DFN-4"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Manufacturer" value="Sensirion"/>
+      <property name="MFR.Part #" value="SHT40-AD1B-R3"/>
+      <property name="JLCPCB Part #" value="C2848306"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="Sensirion environment environmental measurement digital SHT40 SHT41 SHT45"/>
+      <property name="ki_fp_filters" value="Sensirion?DFN*1.5x1.5mm*P0.8mm*SHT4x*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cd8416a-3de5-4b4c-b382-4cbde098f5a2</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>KX022-1020</value>
+      <footprint>Package_LGA:LGA-12_2x2mm_P0.5mm</footprint>
+      <datasheet>https://kionixfs.azureedge.net/en/datasheet/KX022-1020%20Specifications%20Rev%2012.0.pdf</datasheet>
+      <description>3-Axis Accelerometer, 2/4/8g range, 256 byte buffer, I2C/SPI interface, LGA-12</description>
+      <fields>
+        <field name="Manufacturer">ROHM Semicon</field>
+        <field name="MFR.Part #">KX022-1020</field>
+        <field name="JLCPCB Part #">C694095</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Package_LGA:LGA-12_2x2mm_P0.5mm</field>
+        <field name="Datasheet">https://kionixfs.azureedge.net/en/datasheet/KX022-1020%20Specifications%20Rev%2012.0.pdf</field>
+        <field name="Description">3-Axis Accelerometer, 2/4/8g range, 256 byte buffer, I2C/SPI interface, LGA-12</field>
+      </fields>
+      <libsource lib="Sensor_Motion" part="KX022-1020" description="3-Axis Accelerometer, 2/4/8g range, 256 byte buffer, I2C/SPI interface, LGA-12"/>
+      <property name="Manufacturer" value="ROHM Semicon"/>
+      <property name="MFR.Part #" value="KX022-1020"/>
+      <property name="JLCPCB Part #" value="C694095"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="3-axis accelerometer spi i2c mems"/>
+      <property name="ki_fp_filters" value="LGA?12*2x2mm*P0.5mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a24c1a2-0f87-4811-83d4-abc98beb4a3d</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>STM32F103C8Tx</value>
+      <footprint>Package_QFP:LQFP-48_7x7mm_P0.5mm</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/stm32f103c8.pdf</datasheet>
+      <description>STMicroelectronics Arm Cortex-M3 MCU, 64KB flash, 20KB RAM, 72 MHz, 2.0-3.6V, 37 GPIO, LQFP48</description>
+      <fields>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Package_QFP:LQFP-48_7x7mm_P0.5mm</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stm32f103c8.pdf</field>
+        <field name="Description">STMicroelectronics Arm Cortex-M3 MCU, 64KB flash, 20KB RAM, 72 MHz, 2.0-3.6V, 37 GPIO, LQFP48</field>
+      </fields>
+      <libsource lib="MCU_ST_STM32F1" part="STM32F103C8Tx" description="STMicroelectronics Arm Cortex-M3 MCU, 64KB flash, 20KB RAM, 72 MHz, 2.0-3.6V, 37 GPIO, LQFP48"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="Arm Cortex-M3 STM32F1 STM32F103"/>
+      <property name="ki_fp_filters" value="LQFP*7x7mm*P0.5mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f56fd114-9553-4028-a489-33f072ce44a9</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal</value>
+      <footprint>Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8629475189295955968</datasheet>
+      <description>-40℃~+85℃ 12.5pF 32.768kHz 70kΩ Crystal Oscillator ±20ppm SMD3215-2P Crystals ROHS</description>
+      <fields>
+        <field name="Manufacturer">Seiko Epson</field>
+        <field name="MFR.Part #">Q13FC13500004</field>
+        <field name="JLCPCB Part #">C32346</field>
+        <field name="KLC_S3.3"/>
+        <field name="KLC_S4.1"/>
+        <field name="Footprint">Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8629475189295955968</field>
+        <field name="Description">-40℃~+85℃ 12.5pF 32.768kHz 70kΩ Crystal Oscillator ±20ppm SMD3215-2P Crystals ROHS</field>
+      </fields>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <property name="Manufacturer" value="Seiko Epson"/>
+      <property name="MFR.Part #" value="Q13FC13500004"/>
+      <property name="JLCPCB Part #" value="C32346"/>
+      <property name="KLC_S3.3" value=""/>
+      <property name="KLC_S4.1" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <property name="ki_fp_filters" value="Crystal*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3b713d0-e783-4ca0-a68a-c7abda9f7992</tstamps>
+    </comp>
+    <comp ref="Y2">
+      <value>Crystal_GND24</value>
+      <footprint>Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm</footprint>
+      <datasheet>https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709271493435392</datasheet>
+      <description>-40℃~+85℃ 20pF 8MHz Crystal Oscillator ±10ppm ±20ppm SMD5032-2P Crystals ROHS</description>
+      <fields>
+        <field name="Manufacturer">YXC Crystal Oscillators</field>
+        <field name="MFR.Part #">X50328MSB2GI</field>
+        <field name="JLCPCB Part #">C115962</field>
+        <field name="Footprint">Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm</field>
+        <field name="Datasheet">https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709271493435392</field>
+        <field name="Description">-40℃~+85℃ 20pF 8MHz Crystal Oscillator ±10ppm ±20ppm SMD5032-2P Crystals ROHS</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="Manufacturer" value="YXC Crystal Oscillators"/>
+      <property name="MFR.Part #" value="X50328MSB2GI"/>
+      <property name="JLCPCB Part #" value="C115962"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="azrael.kicad_sch"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <property name="ki_fp_filters" value="Crystal*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19988eab-8742-40cc-badf-864d06f54f19</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Battery_Management" part="MCP73871-2CA">
+      <description>Single cell, Li-Ion/Li-Po charge management controller, 4.20V, 6h safety timer</description>
+      <docs>http://www.mouser.com/ds/2/268/22090a-52174.pdf</docs>
+      <footprints>
+        <fp>QFN*4x4mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP73871-2CA</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm</field>
+        <field name="Datasheet">http://www.mouser.com/ds/2/268/22090a-52174.pdf</field>
+        <field name="Description">Single cell, Li-Ion/Li-Po charge management controller, 4.20V, 6h safety timer</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="VPCC" type="input"/>
+        <pin num="3" name="SEL" type="input"/>
+        <pin num="4" name="PROG2" type="input"/>
+        <pin num="5" name="THERM" type="bidirectional"/>
+        <pin num="6" name="~{PG}" type="open_collector"/>
+        <pin num="7" name="STAT2" type="open_collector"/>
+        <pin num="8" name="STAT1/~{LBO}" type="open_collector"/>
+        <pin num="9" name="~{TE}" type="input"/>
+        <pin num="10" name="V_{SS}" type="power_in"/>
+        <pin num="11" name="V_{SS}" type="passive"/>
+        <pin num="12" name="PROG3" type="bidirectional"/>
+        <pin num="13" name="PROG1" type="bidirectional"/>
+        <pin num="14" name="V_{BAT}" type="power_out"/>
+        <pin num="15" name="V_{BAT}" type="passive"/>
+        <pin num="16" name="V_{BAT_SENSE}" type="input"/>
+        <pin num="17" name="CE" type="input"/>
+        <pin num="18" name="IN" type="power_in"/>
+        <pin num="19" name="IN" type="passive"/>
+        <pin num="20" name="OUT" type="passive"/>
+        <pin num="21" name="V_{SS}" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CBT-09427-SMT" part="CBT-09427-SMT">
+      <fields>
+        <field name="Reference">LS</field>
+        <field name="Value">CBT-09427-SMT</field>
+        <field name="Footprint">CBT-09427-SMT:CUI_CBT-09427-SMT</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="MF">Same Sky</field>
+        <field name="DESCRIPTION">9 mm, 3.6 V, 87 dB, Surface Mount _SMT_, Magnetic Audio Transducer Buzzer</field>
+        <field name="PACKAGE">None</field>
+        <field name="PRICE">None</field>
+        <field name="Package">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/CBT-09427-SMT-TR/Same+Sky/view-part/?ref=eda</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/CBT-09427-SMT-TR/Same+Sky/view-part/?ref=snap</field>
+        <field name="MP">CBT-09427-SMT-TR</field>
+        <field name="Availability">In Stock</field>
+        <field name="AVAILABILITY">Unavailable</field>
+        <field name="Description_1">9 mm, 3.6 V, 87 dB, Surface Mount (SMT), Magnetic Audio Transducer Buzzer</field>
+      </fields>
+      <pins>
+        <pin num="M" name="" type="passive"/>
+        <pin num="P" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Pin">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Pin</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x02, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Pin">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Pin</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x03, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Pin">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Pin</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x04, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0_16P">
+      <description>USB 2.0-only 16P Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J1</field>
+        <field name="Value">USB_C_Receptacle_USB2.0_16P</field>
+        <field name="Footprint">Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+        <field name="Description">USB 2.0-only 16P Type-C Receptacle connector</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Two pin crystal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Four pin crystal, GND on pins 2 and 4</field>
+        <field name="KLC_S3.3">The rectangle is not a symbol body but a graphical element</field>
+        <field name="KLC_S4.1">Some pins are on 50mil grid to make the symbol small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="G" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="G" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_ARGB">
+      <description>RGB LED, anode/red/green/blue</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_ARGB</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">RGB LED, anode/red/green/blue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="RK" type="passive"/>
+        <pin num="3" name="GK" type="passive"/>
+        <pin num="4" name="BK" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4148W">
+      <description>75V 0.15A Fast Switching Diode, SOD-123</description>
+      <docs>https://www.vishay.com/docs/85748/1n4148w.pdf</docs>
+      <footprints>
+        <fp>D*SOD?123*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148W</field>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet">https://www.vishay.com/docs/85748/1n4148w.pdf</field>
+        <field name="Description">75V 0.15A Fast Switching Diode, SOD-123</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_USB" part="CP2102N-Axx-xQFN28">
+      <description>USB to UART master bridge, QFN-28</description>
+      <docs>https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*5x5mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CP2102N-Axx-xQFN28</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm</field>
+        <field name="Datasheet">https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf</field>
+        <field name="Description">USB to UART master bridge, QFN-28</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{DCD}" type="input"/>
+        <pin num="2" name="~{RI}/CLK" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="D+" type="bidirectional"/>
+        <pin num="5" name="D-" type="bidirectional"/>
+        <pin num="6" name="VDD" type="power_in"/>
+        <pin num="7" name="VREGIN" type="power_in"/>
+        <pin num="8" name="VBUS" type="input"/>
+        <pin num="9" name="~{RST}" type="input"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="~{SUSPEND}" type="output"/>
+        <pin num="12" name="SUSPEND" type="output"/>
+        <pin num="13" name="CHREN" type="output"/>
+        <pin num="14" name="CHR1" type="output"/>
+        <pin num="15" name="CHR0" type="output"/>
+        <pin num="16" name="~{WAKEUP}/GPIO.3" type="bidirectional"/>
+        <pin num="17" name="RS485/GPIO.2" type="bidirectional"/>
+        <pin num="18" name="~{RXT}/GPIO.1" type="bidirectional"/>
+        <pin num="19" name="~{TXT}/GPIO.0" type="bidirectional"/>
+        <pin num="20" name="GPIO.6" type="bidirectional"/>
+        <pin num="21" name="GPIO.5" type="bidirectional"/>
+        <pin num="22" name="GPIO.4" type="bidirectional"/>
+        <pin num="23" name="~{CTS}" type="input"/>
+        <pin num="24" name="~{RTS}" type="output"/>
+        <pin num="25" name="RXD" type="input"/>
+        <pin num="26" name="TXD" type="output"/>
+        <pin num="27" name="~{DSR}" type="input"/>
+        <pin num="28" name="~{DTR}" type="output"/>
+        <pin num="29" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM32F1" part="STM32F103C8Tx">
+      <description>STMicroelectronics Arm Cortex-M3 MCU, 64KB flash, 20KB RAM, 72 MHz, 2.0-3.6V, 37 GPIO, LQFP48</description>
+      <docs>https://www.st.com/resource/en/datasheet/stm32f103c8.pdf</docs>
+      <footprints>
+        <fp>LQFP*7x7mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F103C8Tx</field>
+        <field name="Footprint">Package_QFP:LQFP-48_7x7mm_P0.5mm</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stm32f103c8.pdf</field>
+        <field name="Description">STMicroelectronics Arm Cortex-M3 MCU, 64KB flash, 20KB RAM, 72 MHz, 2.0-3.6V, 37 GPIO, LQFP48</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="power_in"/>
+        <pin num="2" name="PC13" type="bidirectional"/>
+        <pin num="3" name="PC14" type="bidirectional"/>
+        <pin num="4" name="PC15" type="bidirectional"/>
+        <pin num="5" name="PD0" type="bidirectional"/>
+        <pin num="6" name="PD1" type="bidirectional"/>
+        <pin num="7" name="NRST" type="input"/>
+        <pin num="8" name="VSSA" type="power_in"/>
+        <pin num="9" name="VDDA" type="power_in"/>
+        <pin num="10" name="PA0" type="bidirectional"/>
+        <pin num="11" name="PA1" type="bidirectional"/>
+        <pin num="12" name="PA2" type="bidirectional"/>
+        <pin num="13" name="PA3" type="bidirectional"/>
+        <pin num="14" name="PA4" type="bidirectional"/>
+        <pin num="15" name="PA5" type="bidirectional"/>
+        <pin num="16" name="PA6" type="bidirectional"/>
+        <pin num="17" name="PA7" type="bidirectional"/>
+        <pin num="18" name="PB0" type="bidirectional"/>
+        <pin num="19" name="PB1" type="bidirectional"/>
+        <pin num="20" name="PB2" type="bidirectional"/>
+        <pin num="21" name="PB10" type="bidirectional"/>
+        <pin num="22" name="PB11" type="bidirectional"/>
+        <pin num="23" name="VSS" type="power_in"/>
+        <pin num="24" name="VDD" type="power_in"/>
+        <pin num="25" name="PB12" type="bidirectional"/>
+        <pin num="26" name="PB13" type="bidirectional"/>
+        <pin num="27" name="PB14" type="bidirectional"/>
+        <pin num="28" name="PB15" type="bidirectional"/>
+        <pin num="29" name="PA8" type="bidirectional"/>
+        <pin num="30" name="PA9" type="bidirectional"/>
+        <pin num="31" name="PA10" type="bidirectional"/>
+        <pin num="32" name="PA11" type="bidirectional"/>
+        <pin num="33" name="PA12" type="bidirectional"/>
+        <pin num="34" name="PA13" type="bidirectional"/>
+        <pin num="35" name="VSS" type="passive"/>
+        <pin num="36" name="VDD" type="power_in"/>
+        <pin num="37" name="PA14" type="bidirectional"/>
+        <pin num="38" name="PA15" type="bidirectional"/>
+        <pin num="39" name="PB3" type="bidirectional"/>
+        <pin num="40" name="PB4" type="bidirectional"/>
+        <pin num="41" name="PB5" type="bidirectional"/>
+        <pin num="42" name="PB6" type="bidirectional"/>
+        <pin num="43" name="PB7" type="bidirectional"/>
+        <pin num="44" name="BOOT0" type="input"/>
+        <pin num="45" name="PB8" type="bidirectional"/>
+        <pin num="46" name="PB9" type="bidirectional"/>
+        <pin num="47" name="VSS" type="passive"/>
+        <pin num="48" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Protection" part="USBLC6-2SC6">
+      <description>Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</description>
+      <docs>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">USBLC6-2SC6</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+        <field name="Description">Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I/O1" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="I/O2" type="passive"/>
+        <pin num="5" name="VBUS" type="passive"/>
+        <pin num="6" name="I/O1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117-3.3">
+      <description>1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+        <field name="Description">1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Humidity" part="SHT4x">
+      <description>Digital Humidity and Temperature Sensor, ±1%RH, ±0.1°C, I2C, 1.08-3.6V, 16bit, DFN-4</description>
+      <docs>https://sensirion.com/media/documents/33FD6951/624C4357/Datasheet_SHT4x.pdf</docs>
+      <footprints>
+        <fp>Sensirion?DFN*1.5x1.5mm*P0.8mm*SHT4x*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SHT4x</field>
+        <field name="Footprint">Sensor_Humidity:Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad</field>
+        <field name="Datasheet">https://sensirion.com/media/documents/33FD6951/624C4357/Datasheet_SHT4x.pdf</field>
+        <field name="Description">Digital Humidity and Temperature Sensor, ±1%RH, ±0.1°C, I2C, 1.08-3.6V, 16bit, DFN-4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDA" type="bidirectional"/>
+        <pin num="2" name="SCL" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="VSS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Motion" part="KX022-1020">
+      <description>3-Axis Accelerometer, 2/4/8g range, 256 byte buffer, I2C/SPI interface, LGA-12</description>
+      <docs>https://kionixfs.azureedge.net/en/datasheet/KX022-1020%20Specifications%20Rev%2012.0.pdf</docs>
+      <footprints>
+        <fp>LGA?12*2x2mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">KX022-1020</field>
+        <field name="Footprint">Package_LGA:LGA-12_2x2mm_P0.5mm</field>
+        <field name="Datasheet">https://kionixfs.azureedge.net/en/datasheet/KX022-1020%20Specifications%20Rev%2012.0.pdf</field>
+        <field name="Description">3-Axis Accelerometer, 2/4/8g range, 256 byte buffer, I2C/SPI interface, LGA-12</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDO/ADDR" type="bidirectional"/>
+        <pin num="2" name="SDI/SDA" type="bidirectional"/>
+        <pin num="3" name="IO_VDD" type="power_in"/>
+        <pin num="4" name="TRIG" type="input"/>
+        <pin num="5" name="INT1" type="output"/>
+        <pin num="6" name="INT2" type="output"/>
+        <pin num="7" name="VDD" type="power_in"/>
+        <pin num="9" name="GND" type="power_in"/>
+        <pin num="10" name="~{CS}" type="input"/>
+        <pin num="11" name="NC" type="passive"/>
+        <pin num="12" name="SCLK/SCL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="SS8050">
+      <description>General Purpose NPN Transistor, 1.5A Ic, 25V Vce, SOT-23</description>
+      <docs>http://www.secosgmbh.com/datasheet/products/SSMPTransistor/SOT-23/SS8050.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">SS8050</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.secosgmbh.com/datasheet/products/SSMPTransistor/SOT-23/SS8050.pdf</field>
+        <field name="Description">General Purpose NPN Transistor, 1.5A Ic, 25V Vce, SOT-23</field>
+        <field name="Sim.Device">NPN</field>
+        <field name="Sim.Pins">1=B 2=E 3=C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Battery_Management">
+      <uri>/usr/share/kicad/symbols//Battery_Management.kicad_sym</uri>
+    </library>
+    <library logical="CBT-09427-SMT">
+      <uri>/home/hillary/Documents/kicad_jobs/symbols/CBT-09427-SMT/CBT-09427-SMT.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/usr/share/kicad/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="Interface_USB">
+      <uri>/usr/share/kicad/symbols//Interface_USB.kicad_sym</uri>
+    </library>
+    <library logical="MCU_ST_STM32F1">
+      <uri>/usr/share/kicad/symbols//MCU_ST_STM32F1.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>/usr/share/kicad/symbols//Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/usr/share/kicad/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Humidity">
+      <uri>/usr/share/kicad/symbols//Sensor_Humidity.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Motion">
+      <uri>/usr/share/kicad/symbols//Sensor_Motion.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/usr/share/kicad/symbols//Switch.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>/usr/share/kicad/symbols//Transistor_BJT.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3" class="Default">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LS1" pin="P" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U5" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U6" pin="10" pinfunction="~{CS}" pintype="input"/>
+      <node ref="U6" pin="3" pinfunction="IO_VDD" pintype="power_in"/>
+      <node ref="U6" pin="7" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U7" pin="24" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U7" pin="36" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U7" pin="48" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U7" pin="9" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="2" name="+3V3_UNREG" class="Default">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U2" pin="20" pinfunction="OUT" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="3" name="+BATT" class="Default">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="V_{BAT}" pintype="power_out"/>
+      <node ref="U2" pin="15" pinfunction="V_{BAT}" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="V_{BAT_SENSE}" pintype="input"/>
+      <node ref="U3" pin="7" pinfunction="VREGIN" pintype="power_in"/>
+    </net>
+    <net code="4" name="/ACCL_INT_1" class="Default">
+      <node ref="U6" pin="5" pinfunction="INT1" pintype="output"/>
+      <node ref="U7" pin="41" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/ACCL_INT_2" class="Default">
+      <node ref="U6" pin="6" pinfunction="INT2" pintype="output"/>
+      <node ref="U7" pin="40" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/BOOT0" class="Default">
+      <node ref="U7" pin="44" pinfunction="BOOT0" pintype="input"/>
+    </net>
+    <net code="7" name="/BUZZER_OUT" class="Default">
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U7" pin="30" pinfunction="PA9" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/CHR_500" class="Default">
+      <node ref="U2" pin="4" pinfunction="PROG2" pintype="input"/>
+      <node ref="U3" pin="15" pinfunction="CHR0" pintype="output"/>
+    </net>
+    <net code="9" name="/CHR_EN" class="Default">
+      <node ref="U2" pin="17" pinfunction="CE" pintype="input"/>
+      <node ref="U3" pin="13" pinfunction="CHREN" pintype="output"/>
+    </net>
+    <net code="10" name="/CHR_PG" class="Default">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="~{PG}" pintype="open_collector"/>
+    </net>
+    <net code="11" name="/CHR_STAT1" class="Default">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="STAT1/~{LBO}" pintype="open_collector"/>
+    </net>
+    <net code="12" name="/CHR_STAT2" class="Default">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="STAT2" pintype="open_collector"/>
+    </net>
+    <net code="13" name="/D/C" class="Default">
+      <node ref="U7" pin="19" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/EXIT_BTN" class="Default">
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U7" pin="22" pinfunction="PB11" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/I2C_SCL" class="Default">
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="SCL" pintype="input"/>
+      <node ref="U6" pin="12" pinfunction="SCLK/SCL" pintype="input"/>
+      <node ref="U7" pin="42" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/I2C_SDA" class="Default">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U6" pin="2" pinfunction="SDI/SDA" pintype="bidirectional"/>
+      <node ref="U7" pin="43" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/LED_1" class="Default">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U7" pin="26" pinfunction="PB13" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/LED_2" class="Default">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U7" pin="27" pinfunction="PB14" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/LED_3" class="Default">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U7" pin="28" pinfunction="PB15" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/NRST" class="Default">
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="21" name="/OK_BTN" class="Default">
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U7" pin="25" pinfunction="PB12" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/OLED_BSY" class="Default">
+      <node ref="U7" pin="18" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/OLED_CS" class="Default">
+      <node ref="U7" pin="20" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/OSC32_IN" class="Default">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="PC14" pintype="bidirectional"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="/OSC32_OUT" class="Default">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="PC13" pintype="bidirectional"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="26" name="/OSC_IN" class="Default">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="PD0" pintype="bidirectional"/>
+      <node ref="Y2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="27" name="/OSC_OUT" class="Default">
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="U7" pin="6" pinfunction="PD1" pintype="bidirectional"/>
+      <node ref="Y2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="28" name="/SPI_MISO" class="Default">
+      <node ref="U7" pin="16" pinfunction="PA6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="29" name="/SPI_MOSI" class="Default">
+      <node ref="U7" pin="17" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/SPI_SCK" class="Default">
+      <node ref="U7" pin="15" pinfunction="PA5" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/SWD_SWCLK" class="Default">
+      <node ref="U7" pin="37" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/SWD_SWDIO" class="Default">
+      <node ref="U7" pin="34" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/UART_CTS" class="Default">
+      <node ref="U3" pin="24" pinfunction="~{RTS}" pintype="output"/>
+      <node ref="U7" pin="10" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/UART_RTS" class="Default">
+      <node ref="U3" pin="23" pinfunction="~{CTS}" pintype="input"/>
+      <node ref="U7" pin="11" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="/UART_RX" class="Default">
+      <node ref="U3" pin="26" pinfunction="TXD" pintype="output"/>
+      <node ref="U7" pin="13" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/UART_TX" class="Default">
+      <node ref="U3" pin="25" pinfunction="RXD" pintype="input"/>
+      <node ref="U7" pin="12" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="GND" class="Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="V_{SS}" pintype="power_in"/>
+      <node ref="U2" pin="11" pinfunction="V_{SS}" pintype="passive"/>
+      <node ref="U2" pin="21" pinfunction="V_{SS}" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="THERM" pintype="bidirectional"/>
+      <node ref="U2" pin="9" pinfunction="~{TE}" pintype="input"/>
+      <node ref="U3" pin="29" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U6" pin="4" pinfunction="TRIG" pintype="input"/>
+      <node ref="U6" pin="9" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="23" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U7" pin="35" pinfunction="VSS" pintype="passive"/>
+      <node ref="U7" pin="47" pinfunction="VSS" pintype="passive"/>
+      <node ref="U7" pin="8" pinfunction="VSSA" pintype="power_in"/>
+      <node ref="Y2" pin="2" pinfunction="G" pintype="passive"/>
+      <node ref="Y2" pin="4" pinfunction="G" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D1-K)" class="Default">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D2-BK)" class="Default">
+      <node ref="D2" pin="4" pinfunction="BK" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D2-GK)" class="Default">
+      <node ref="D2" pin="3" pinfunction="GK" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D2-RK)" class="Default">
+      <node ref="D2" pin="2" pinfunction="RK" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D3-K)" class="Default">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D4-K)" class="Default">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D5-K)" class="Default">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D6-K)" class="Default">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D7-A)" class="Default">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LS1" pin="M" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(J1-CC1)" class="Default">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(J1-CC2)" class="Default">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(J1-D+-PadA6)" class="Default">
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(J1-D--PadA7)" class="Default">
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U1" pin="1" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(Q1-B)" class="Default">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(U2-PROG1)" class="Default">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="PROG1" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="Net-(U2-PROG3)" class="Default">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="PROG3" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="Net-(U2-SEL)" class="Default">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="SEL" pintype="input"/>
+    </net>
+    <net code="55" name="Net-(U3-D+)" class="Default">
+      <node ref="U1" pin="4" pinfunction="I/O2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="Net-(U3-D-)" class="Default">
+      <node ref="U1" pin="6" pinfunction="I/O1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="Net-(U3-VBUS)" class="Default">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="VBUS" pintype="input"/>
+    </net>
+    <net code="58" name="Net-(U3-~{RST})" class="Default">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="~{RST}" pintype="input"/>
+    </net>
+    <net code="59" name="Net-(U3-~{RXT}/GPIO.1)" class="Default">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="~{RXT}/GPIO.1" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="Net-(U3-~{TXT}/GPIO.0)" class="Default">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U3" pin="19" pinfunction="~{TXT}/GPIO.0" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="VBUS" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VBUS" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="IN" pintype="power_in"/>
+      <node ref="U2" pin="19" pinfunction="IN" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VPCC" pintype="input"/>
+    </net>
+    <net code="62" name="VDD" class="Default">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="63" name="unconnected-(U3-CHR1-Pad14)" class="Default">
+      <node ref="U3" pin="14" pinfunction="CHR1" pintype="output+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(U3-GPIO.4-Pad22)" class="Default">
+      <node ref="U3" pin="22" pinfunction="GPIO.4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(U3-GPIO.5-Pad21)" class="Default">
+      <node ref="U3" pin="21" pinfunction="GPIO.5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U3-GPIO.6-Pad20)" class="Default">
+      <node ref="U3" pin="20" pinfunction="GPIO.6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(U3-NC-Pad10)" class="Default">
+      <node ref="U3" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U3-RS485/GPIO.2-Pad17)" class="Default">
+      <node ref="U3" pin="17" pinfunction="RS485/GPIO.2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(U3-SUSPEND-Pad12)" class="Default">
+      <node ref="U3" pin="12" pinfunction="SUSPEND" pintype="output+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U3-~{DCD}-Pad1)" class="Default">
+      <node ref="U3" pin="1" pinfunction="~{DCD}" pintype="input+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U3-~{DSR}-Pad27)" class="Default">
+      <node ref="U3" pin="27" pinfunction="~{DSR}" pintype="input+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U3-~{DTR}-Pad28)" class="Default">
+      <node ref="U3" pin="28" pinfunction="~{DTR}" pintype="output+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(U3-~{RI}/CLK-Pad2)" class="Default">
+      <node ref="U3" pin="2" pinfunction="~{RI}/CLK" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U3-~{SUSPEND}-Pad11)" class="Default">
+      <node ref="U3" pin="11" pinfunction="~{SUSPEND}" pintype="output+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U3-~{WAKEUP}/GPIO.3-Pad16)" class="Default">
+      <node ref="U3" pin="16" pinfunction="~{WAKEUP}/GPIO.3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U6-NC-Pad11)" class="Default">
+      <node ref="U6" pin="11" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U6-SDO/ADDR-Pad1)" class="Default">
+      <node ref="U6" pin="1" pinfunction="SDO/ADDR" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(U7-PA4-Pad14)" class="Default">
+      <node ref="U7" pin="14" pinfunction="PA4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(U7-PA8-Pad29)" class="Default">
+      <node ref="U7" pin="29" pinfunction="PA8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U7-PA10-Pad31)" class="Default">
+      <node ref="U7" pin="31" pinfunction="PA10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(U7-PA11-Pad32)" class="Default">
+      <node ref="U7" pin="32" pinfunction="PA11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(U7-PA12-Pad33)" class="Default">
+      <node ref="U7" pin="33" pinfunction="PA12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(U7-PA15-Pad38)" class="Default">
+      <node ref="U7" pin="38" pinfunction="PA15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(U7-PB3-Pad39)" class="Default">
+      <node ref="U7" pin="39" pinfunction="PB3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(U7-PB8-Pad45)" class="Default">
+      <node ref="U7" pin="45" pinfunction="PB8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(U7-PB9-Pad46)" class="Default">
+      <node ref="U7" pin="46" pinfunction="PB9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(U7-PB10-Pad21)" class="Default">
+      <node ref="U7" pin="21" pinfunction="PB10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(U7-PC15-Pad4)" class="Default">
+      <node ref="U7" pin="4" pinfunction="PC15" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
