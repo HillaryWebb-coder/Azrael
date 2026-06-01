@@ -1,3 +1,0 @@
-/home/hillary/Documents/embedded_projs/azrael_freertos/Debug/CMakeFiles/azrael_freeRTOS.dir
-/home/hillary/Documents/embedded_projs/azrael_freertos/Debug/CMakeFiles/edit_cache.dir
-/home/hillary/Documents/embedded_projs/azrael_freertos/Debug/CMakeFiles/rebuild_cache.dir
